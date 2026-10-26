@@ -5,3 +5,4 @@ There was a guy...
 =======
 Who had a penguin that dreamed of the desert 
 >>>>>>> da5a697 (Update story.txt)
+He was on the journey to save his friend
